@@ -1,7 +1,7 @@
 {
     "name": "elastic-book-search",
     "version": "0.0.1",
-    "description": "Source code for Elasticsearch tutorial using classic open source books.",
+    "description": "Source code for elastic-book-search using classic open source books.",
     "scripts": {
       "start": "node --inspect=0.0.0.0:9229 server/app.js"
     },
